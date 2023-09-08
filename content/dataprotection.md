@@ -54,12 +54,7 @@ Sofern weitere regionale oder nationale Gesetze zur Anwendung kommen, informiere
 
 ## Kontaktdaten des Verantwortlichen
 
-Sollten Sie Fragen zum Datenschutz oder zur Verarbeitung personenbezogener Daten haben, finden Sie nachfolgend die Kontaktdaten der verantwortlichen Person bzw. Stelle:  
-<span class="adsimple-312451573" style="font-weight: 400">Tim Beermann  
-Prosberg 10  
-91238 Engelthal</span>
-
-E-Mail: [terraform@osism.tech](mailto:terraform@osism.tech)
+Sollten Sie Fragen zum Datenschutz oder zur Verarbeitung personenbezogener Daten haben, finden Sie nachfolgend die Kontaktdaten der verantwortlichen Person bzw. Stelle: siehe Impressum.
 
 ## Speicherdauer
 
